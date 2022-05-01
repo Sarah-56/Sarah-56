@@ -9,7 +9,7 @@ println!("Hi there!")
 
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sarah-56&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
 
-
+- A passionate Embedded developer
 - 🔭 I’m currently working on Adaptive Autosar platform
 - 🌱 I’m currently learning CSE
 
@@ -46,7 +46,7 @@ println!("Hi there!")
     <img alt="Total time of coding" src="https://wakatime.com/badge/user/d00f6d0d-e378-4be0-95e6-b453ef337cf3/project/9171cf93-1e06-4a5e-bbfc-233f4a7c0fa8.svg"/>
   </a>
 </p>
-
+<br>
  ### 📫 You can reach me here:  
 <p align="center">
 <a href="https://www.linkedin.com/in/sarah-mohamed-247b44192/" target="_blank">
