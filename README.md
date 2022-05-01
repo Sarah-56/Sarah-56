@@ -48,6 +48,7 @@ println!("Hi there!")
 </p>
 
  ### 📫 You can reach me here:  
+<p align="center">
 <a href="https://www.linkedin.com/in/sarah-mohamed-247b44192/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -55,8 +56,7 @@ println!("Hi there!")
 <a href="mailto:sarah.mohamed.hijazy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
- 
- 
+</p>
  
  - - - - 
  <p  align="right">
