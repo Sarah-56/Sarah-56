@@ -8,17 +8,21 @@ println!("Hi there!")
 <!-- START -->
 
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sarah-56&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
+<br>
+
 
 - A passionate Embedded developer
 - 🔭 I’m currently working on Adaptive Autosar platform
 - 🌱 I’m currently learning CSE
+<br />
+<br />
+<br />
 
+<!-- --------------
 
-<br>
-<br>
 <p align="center">
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah-56&langs_count=8&layout=compact&theme=tokyonight" align="left" width="40%"/>
-<p><img alt="My GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?user=Sarah-56&theme=tokyonight&date_format=j%20M%5B%20Y%5D" align="right" width="50%" /></p>
+<p><img alt="My GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?user=Sarah-56&theme=tokyonight&date_format=j%20M%5B%20Y%5D" align="right" width="50%" /></p> -->
 
 </p>
 <br>
@@ -47,7 +51,7 @@ println!("Hi there!")
   </a>
 </p>
 <br>
- ### 📫 You can reach me here:  
+📫 You can reach me here:  
 <p align="center">
 <a href="https://www.linkedin.com/in/sarah-mohamed-247b44192/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
