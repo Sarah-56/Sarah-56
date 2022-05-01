@@ -12,7 +12,7 @@ println!("Hi there!")
 
 - 🔭 I’m currently working on Adaptive Autosar platform
 - 🌱 I’m currently learning CSE
-- 📫 How to reach me: 
+
 
 <br>
 <br>
