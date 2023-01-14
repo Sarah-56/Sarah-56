@@ -7,8 +7,8 @@ println!("Hi there!")
 
 <!-- START -->
 
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sarah-56&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
-<br>
+<!-- <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sarah-56&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
+<br> -->
 
 
 - A passionate Embedded developer
