@@ -18,11 +18,11 @@ println!("Hi there!")
 <br />
 <br />
 
-<!-- --------------
+--------------
 
 <p align="center">
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah-56&langs_count=8&layout=compact&theme=tokyonight" align="left" width="40%"/>
-<p><img alt="My GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?user=Sarah-56&theme=tokyonight&date_format=j%20M%5B%20Y%5D" align="right" width="50%" /></p> -->
+<p><img alt="My GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?user=Sarah-56&theme=tokyonight&date_format=j%20M%5B%20Y%5D" align="right" width="50%" /></p> 
 
 </p>
 <br>
